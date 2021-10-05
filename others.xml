@@ -1,0 +1,2514 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SHOWTIME WOMEN">
+    <display-name lang="en">SHO WOMEN</display-name>
+    <url>http://www.sho.com</url>
+  </channel>
+  <channel id="EPIX-DRIVE-IN.us">
+    <display-name lang="en">EPIX Drive-In (EPIXDI) [292]</display-name>
+  </channel>
+  <channel id="ALJAZEERA.us">
+    <display-name lang="en">Al Jazeera (Arabic US) (ALJAZEER) [638]</display-name>
+  </channel>
+  <programme start="20211005021000 +0000" stop="20211005043000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Under the Silver Lake</title>
+    <desc lang="en">Sam is a disenchanted 33-year-old who becomes infatuated with a suspicious woman swimming in his apartment complex’s pool. When she goes missing, he embarks on a spiraling investigation through Los Angeles to discover the truth behind her disappearance. His path leads him into the murky depths of mystery, scandal and conspiracy in the City of Angels.(n)</desc>
+    <credits>
+      <director>David Robert Mitchell</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Riley Keough</actor>
+      <actor>Topher Grace</actor>
+      <writer>David Robert Mitchell</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211005043000 +0000" stop="20211005060000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Anywhere With You</title>
+    <desc lang="en">Young couple Amanda (Morgan Saylor) and Jake (McCaul Lombardi) are starting a new life in Los Angeles, but the first 24 hours bring more surprises and frustrations than expected as they traverse the city.(n)</desc>
+    <credits>
+      <director>Hanna Ladoul and Marco La Via</director>
+      <actor>Morgan Saylor</actor>
+      <actor>McCaul Lombardi</actor>
+      <actor>Betsy Brandt</actor>
+      <actor>Khleo Thomas</actor>
+      <actor>Lorelei Linklater</actor>
+      <actor>Cameron Crovetti</actor>
+      <actor>Nicholas Crovetti</actor>
+      <actor>Vivian Bang</actor>
+      <writer>Hanna Ladoul &amp; Marco La Via</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211005060000 +0000" stop="20211005073500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Becky</title>
+    <desc lang="en">A crime drama about a rebellious teenager named Becky who is brought to a weekend getaway at a lake house by her father in an effort to try to reconnect after her mother's death. The trip immediately takes a turn for the worse when a group of convicts on the run, led by the merciless Dominick, suddenly invade the lake house.(n)</desc>
+    <credits>
+      <director>Jonathan Milott and Cary Murnion</director>
+      <actor>Lulu Wilson</actor>
+      <actor>Kevin James</actor>
+      <actor>Joel McHale</actor>
+      <actor>Amanda Brugel</actor>
+      <actor>Robert Maillet</actor>
+      <writer>Nick Morris, Ruckus Skye, and  Lane Skye</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211005073500 +0000" stop="20211005100000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Paradise Cove</title>
+    <desc lang="en">When a contractor and his wife move to Malibu to flip his mother’s beachfront property, they are terrorized by a deranged homeless woman living beneath the house.(n)</desc>
+    <credits>
+      <actor>Todd Grinnell</actor>
+      <actor>Kristin Bauer van Straten</actor>
+      <actor>Mena Suvari</actor>
+      <writer>Sherry Klein</writer>
+      <writer>Martin Guigui</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language, Violence</writer>
+      <writer>2021</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211005100000 +0000" stop="20211005115000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Truth</title>
+    <desc lang="en">When aging French actress Fabienne (Catherine Deneuve) publishes her memoirs, her daughter Lumir (Juliette Binoche) travels to Paris with her family to celebrate the book’s launch. But confrontations arise when Lumir questions her mother’s rose-colored version of reality. The two formidable women spar with wit and grace and the distant hope of reconciliation. A poignant and funny exploration of the passionate dynamic of a mother daughter duo and their contrasting memories of the past.(n)</desc>
+    <credits>
+      <actor>Catherine Deneuve</actor>
+      <actor>Juliette Binoche</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Clementine Grenier</actor>
+      <actor>Manon Clavel</actor>
+      <actor>Alain Libolt</actor>
+      <actor>Christian Crahay</actor>
+      <actor>Roger Van Hool</actor>
+      <writer>Hirokazu Kore-Eda</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Foreign</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211005115000 +0000" stop="20211005133000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Vicky Cristina Barcelona</title>
+    <desc lang="en">Romantic comedy-drama about a pair of American friends (Scarlett Johansson and Rebecca Hall) who vacation together in Spain and fall under the romantic spell of Juan, a passionate artist (Javier Bardem).(n)</desc>
+    <credits>
+      <director>Woody Allen</director>
+      <actor>Javier Bardem</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Chris Messina</actor>
+      <writer>Woody Allen</writer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211005133000 +0000" stop="20211005150000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Rafiki</title>
+    <desc lang="en">Kena and Ziki live very different lives in Nairobi. Kena works in her father's shop and awaits the start of nursing school, while Ziki passes the days hanging out with her friends and making up dance routines. Their paths cross when their fathers run against each other for seats in the County Assembly, and they find themselves drawn to each other. Soon their interest grows to affection and the girls find ways to love each other despite the ever-watching gaze of the neighborhood.(n)</desc>
+    <credits>
+      <director>Wanuri Kahiu</director>
+      <actor>Samantha Mugatsia</actor>
+      <actor>Sheila Munyiva</actor>
+      <writer>Wanuri Kahiu &amp; Jenna Cato Bass</writer>
+      <writer>Monica Arac de Nyeko</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Foreign</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211005150000 +0000" stop="20211005164000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Dark Skies</title>
+    <desc lang="en">A supernatural thriller starring Josh Hamilton and Keri Russell as a husband and wife living in the suburbs with their young family, who witness an escalating series of disturbing events. When it becomes clear that they are being targeted by an unimaginably terrifying and deadly force, they take matters in their own hands to solve the mystery of what is after their family.(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Keri Russell</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Kadan Rockett</actor>
+      <actor>Josh Stamberg</actor>
+      <actor>L.J. Benet</actor>
+      <actor>J.K. Simmons</actor>
+      <writer>Scott Stewart</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211005164000 +0000" stop="20211005183000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Regarding Henry</title>
+    <desc lang="en">Henry (Harrison Ford) is a ruthless New York corporate lawyer who has it all: a successful career, a beautiful wife and an adorable daughter - but no heart. When he is critically injured in a violent robbery, he awakens with no memory of the event and the inability to complete mundane tasks. Though burdensome, his recovery provides him the opportunity to start over, gain a new friend and most significantly, repair his tattered relationship with his family.(n)</desc>
+    <credits>
+      <director>Mike Nichols</director>
+      <actor>Harrison Ford</actor>
+      <actor>Annette Bening</actor>
+      <actor>Bill Nunn</actor>
+      <actor>Mikki Allen</actor>
+      <actor>Donald Moffat</actor>
+      <actor>Nancy Marchand</actor>
+      <actor>Aida Linares</actor>
+      <actor>Elizabeth Wilson</actor>
+      <actor>Robin Bartlett</actor>
+      <actor>Bruce Altman</actor>
+      <actor>Rebecca Miller</actor>
+      <writer>Jeffrey Abrams</writer>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211005183000 +0000" stop="20211005203000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Truth</title>
+    <desc lang="en">When aging French actress Fabienne (Catherine Deneuve) publishes her memoirs, her daughter Lumir (Juliette Binoche) travels to Paris with her family to celebrate the book’s launch. But confrontations arise when Lumir questions her mother’s rose-colored version of reality. The two formidable women spar with wit and grace and the distant hope of reconciliation. A poignant and funny exploration of the passionate dynamic of a mother daughter duo and their contrasting memories of the past.(n)</desc>
+    <credits>
+      <actor>Catherine Deneuve</actor>
+      <actor>Juliette Binoche</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Clementine Grenier</actor>
+      <actor>Manon Clavel</actor>
+      <actor>Alain Libolt</actor>
+      <actor>Christian Crahay</actor>
+      <actor>Roger Van Hool</actor>
+      <writer>Hirokazu Kore-Eda</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Foreign</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211005203000 +0000" stop="20211005223000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Dangerous Liaisons</title>
+    <desc lang="en">A jilted French noblewoman (Glenn Close) in pre-Revolution Paris plots revenge against her ex-lover, aiming to disgrace him and his new fiancé (Uma Thurman). Enlisting a fellow noble (John Malkovich) to carry out her scheme, however, she becomes embroiled in a salacious plot of his own. Co-starring Michelle Pfeiffer and Keanu Reeves.(n)</desc>
+    <credits>
+      <director>Stephen Frears</director>
+      <actor>Glenn Close</actor>
+      <actor>John Malkovich</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Swoosie Kurtz</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Mildred Natwick</actor>
+      <actor>Uma Thurman</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211005223000 +0000" stop="20211006000000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Signature Move</title>
+    <desc lang="en">A closeted Muslim lesbian in Chicago works as an immigration lawyer and cares for her newly widowed mother. Desperately needing to blow off steam, she takes up lucha-style wrestling and falls for a free-spirited wrestler. As she gains experience in the ring, she must also overcome the tense relationship with her mother and contend with her own inner turmoil.(n)</desc>
+    <credits>
+      <director>Jennifer Reeder</director>
+      <actor>Fawzia Mirza</actor>
+      <actor>Shabana Azmi</actor>
+      <actor>Sari Sanchez</actor>
+      <actor>Audrey Francis</actor>
+      <actor>Charin Alvarez</actor>
+      <writer>Fawzia Mirza &amp; Lisa Donato</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211006000000 +0000" stop="20211006020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Eternal Sunshine of the Spotless Mind</title>
+    <desc lang="en">After an emotional breakup, Clementine (Kate Winslet) undergoes a procedure to remove all memory of her tumultuous relationship with her ex-boyfriend, Joel (Jim Carrey). Similarly down in the dumps, Joel seeks out the same operation. As his memories of Clementine progressively disappear, he challenges himself to rediscover the passion that once made them fall in love.(n)</desc>
+    <credits>
+      <director>Michel Gondry</director>
+      <actor>Jim Carrey</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Tom Wilkinson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006020000 +0000" stop="20211006040500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">On the Road</title>
+    <desc lang="en">A young writer, Sal Paradise (Sam Riley), is shaken and ultimately redefined by the arrival of Dean Moriarty (Garrett Hedlund), a free-spirited, fearless, fast-talking Westerner and his girl, Marylou (Kristen Stewart). Directed by acclaimed filmmaker Walter Salles and based on the iconic novel by Jack Kerouac.(n)</desc>
+    <credits>
+      <director>Walter Salles</director>
+      <actor>Sam Riley</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Amy Adams</actor>
+      <actor>Tom Sturridge</actor>
+      <actor>Danny Morgan</actor>
+      <actor>Alice Braga</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Viggo Mortensen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006040500 +0000" stop="20211006060000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Look of Love</title>
+    <desc lang="en">The life of Paul Raymond, the controversial entrepreneur who became Britain's richest man. Starring Steve Coogan, Matt Lucas, and Anna Friel.(n)</desc>
+    <credits>
+      <director>Michael Winterbottom</director>
+      <actor>Steve Coogan</actor>
+      <actor>Anna Friel</actor>
+      <actor>Tamsin Egerton</actor>
+      <actor>Imogen Poots</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211006060000 +0000" stop="20211006080000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">All I See Is You</title>
+    <desc lang="en">After being blinded as a child in a nearly fatal car crash that claimed her parent's lives, Gina depends on her husband James to be her eyes. She sees her world in her own imagination with help from James' descriptions. Despite her disability, the two enjoy a colorful existence in Thailand. It seems the only real hardship this loving couple faces is difficulty conceiving a child, but when Gina is given the opportunity to have a corneal transplant and regains her vision, their life and relationship are upended.(n)</desc>
+    <credits>
+      <director>Marc Forster</director>
+      <actor>Blake Lively</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Ahna O'Reilly</actor>
+      <actor>Yvonne Strahovski</actor>
+      <actor>Wes Chatham</actor>
+      <actor>Danny Huston</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006080000 +0000" stop="20211006093000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Jexi</title>
+    <desc lang="en">Phil has a major dependency issue—he's addicted to his phone. He has no friends, he has a job writing pop culture "Top 10" lists, and his love life is non-existent.  But when he is forced to upgrade his phone, the latest model comes with an unexpected feature: Jexi, an A.I. life coach, virtual assistant and cheerleader. With her help, Phil begins to get a real life. But as he becomes less dependent on his phone, Jexi's artificial intelligence morphs into a tech nightmare determined to keep Phil all to herself.(n)</desc>
+    <credits>
+      <director>Jon Lucas &amp; Scott Moore</director>
+      <actor>Adam Devine</actor>
+      <actor>Alexandra Shipp</actor>
+      <actor>Michael Peña</actor>
+      <actor>Rose Byrne</actor>
+      <writer>Jon Lucas &amp; Scott Moore</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006093000 +0000" stop="20211006103000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Celeste Barber: Challenge Accepted</title>
+    <desc lang="en">Actor, Comedian, and Social Media Super Star Celeste Barber is the self-proclaimed queen of everyday sophistication and low budget lifestyle aspirations. Her meteoric rise on Instagram, parodying celebrity photographs, has resulted in her taking meetings with top moguls and awkwardly becoming friends with the very people she is parodying. In this exciting live show experience, Celeste explains the story behind some of her most famous images, her new relationship with famous people, the trolls, fans and comments that get under her skin.(n)</desc>
+    <credits>
+      <writer>Celeste Barber</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2019</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Stand Up</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211006103000 +0000" stop="20211006120500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">A Little Game</title>
+    <desc lang="en">Maxine, a young girl who is ostracized at her new school, befriends a grizzled chess player. Through teaching Maxine the game, the feisty old man gives her the courage to stand up for herself and persevere through life’s challenges.(n)</desc>
+    <credits>
+      <actor>F. Murray Abraham</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Janeane Garofalo</actor>
+      <actor>Makenna Ballard</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Action</category>
+    <category lang="en">Family</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211006120500 +0000" stop="20211006141500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Testament of Youth</title>
+    <desc lang="en">Vera Brittain, a young English woman, postpones her studies at Oxford University in the wake of World War I and sets out on a journey to become a voluntary nurse in London and abroad. After the violence of the war subsides, she returns home to become a famous writer, feminist and pacifist.(n)</desc>
+    <credits>
+      <director>James Kent</director>
+      <actor>Alicia Vikander</actor>
+      <actor>Kit Harington</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Emily Watson</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Colin Morgan</actor>
+      <actor>Joanna Scanlan</actor>
+      <actor>Anna Chancellor</actor>
+      <actor>Alexandra Roach</actor>
+      <actor>Dominic West</actor>
+      <actor>Miranda Richardson</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Action</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">War</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211006141500 +0000" stop="20211006160000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Go-Go’s</title>
+    <desc lang="en">As the first multi-platinum-selling, all-female band to play their own instruments, write their own songs and soar to No. 1 on the album charts, the Go-Go's are the most successful female rock band of all time. Underpinned by candid testimonies from The Go-Go's past and present, this documentary chronicles the meteoric rise to fame of a band born of the LA punk scene that not only captured but created a zeitgeist.(n)</desc>
+    <credits>
+      <director>Alison Ellwood</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211006160000 +0000" stop="20211006175000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Mother of George</title>
+    <desc lang="en">Nigerian couple Adenike and Ayodele immigrate to Brooklyn to get married and begin a new life. However, they soon find themselves unable to conceive a child—devastating the family and shattering cultural expectations. Adenike is suddenly faced with a shocking decision that could either unite her family or tear it apart. A moving drama about a couple navigating personal and cultural minefields in their journey toward parenthood.(n)</desc>
+    <credits>
+      <director>Andrew Dosunmu</director>
+      <actor>Isaach De Bankolé</actor>
+      <actor>Danai Gurira</actor>
+      <actor>Anthony Okungbowa</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Bukky Ajayi</actor>
+      <actor>Angélique Kidjo</actor>
+      <actor>Da'Vine Joy Randolph</actor>
+      <writer>Darci Picoult</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006175000 +0000" stop="20211006193000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Barely Lethal</title>
+    <desc lang="en">Megan Walsh (Hailee Steinfeld) is a teenage special ops agent who yearns for a normal adolescence. After faking her own death, she assumes the role of an exchange student and quickly learns that surviving the treacherous waters of a typical American high school can be even more difficult than international espionage.(n)</desc>
+    <credits>
+      <director>Kyle Newman</director>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Thomas Mann</actor>
+      <actor>Sophie Turner</actor>
+      <actor>Dove Cameron</actor>
+      <actor>Gabriel Basso</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Samuel L. Jackson</actor>
+      <writer>John D'Arco</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211006193000 +0000" stop="20211006210000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Yours, Mine &amp; Ours (2005)</title>
+    <desc lang="en">Dennis Quaid and Rene Russo star in this romantic comedy remake about a newly married middle-aged couple with a combined total of 18 children from their previous marriages, a dozen and a half personalities that agree on only one thing: their parents should be split up as soon as possible. Rip Torn, Linda Hunt, Jerry O'Connell and David Koechner costar in this family comedy.(n)</desc>
+    <date>2005</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211006210000 +0000" stop="20211006222500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Frances Ha</title>
+    <desc lang="en">Frances (Greta Gerwig) lives in New York, but she doesn't really have an apartment. Frances is an apprentice for a dance company, but she's not really a dancer. Frances has a best friend named Sophie, but they aren't really speaking anymore. Frances throws herself headlong into her dreams, even as their possible reality dwindles. Frances wants so much more than she has, but lives her life with unaccountable joy and lightness.(n)</desc>
+    <credits>
+      <actor>Greta Gerwig</actor>
+      <actor>Mickey Sumner</actor>
+      <actor>Michael Esper</actor>
+      <actor>Michael Zegen</actor>
+      <actor>Adam Driver</actor>
+      <actor>Charlotte d'Amboise</actor>
+      <actor>Grace Gummer</actor>
+      <actor>Patrick Heusinger</actor>
+      <writer>Noah Baumbach &amp; Greta Gerwig</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211006222500 +0000" stop="20211007000000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The One I Love</title>
+    <desc lang="en">A couple on the brink of separation (Mark Duplass, Elisabeth Moss) take a weekend getaway to a secluded estate at the suggestion of their therapist (Ted Danson). When the experience takes a turn for the surreal, the couple are forced to confront their issues and examine their future.(n)</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Elizabeth Moss</actor>
+      <actor>Ted Danson</actor>
+      <writer>Justin Lader</writer>
+      <writer>Charlie McDowell</writer>
+      <writer>R</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2014</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007000000 +0000" stop="20211007014000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Before Sunrise</title>
+    <desc lang="en">Ethan Hawke and Julie Delpy costar as Jesse and Celine, young singles who meet aboard a Vienna-bound train and spend one long night together, walking, talking and flirting, revealing characters of depth and wit. They're not perfect for each other, but before sunrise they just might fall in love. Or at least, decide to meet again. A witty, comic romance from writer/director Richard Linklater ("Dazed and Confused," "Waking Life").(n)</desc>
+    <credits>
+      <actor>Ethan Hawke</actor>
+      <actor>Julie Delpy</actor>
+      <writer>Richard Linklater &amp; Kim Krizan</writer>
+      <writer>Richard Linklater</writer>
+      <writer>R</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>1995</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007014000 +0000" stop="20211007030000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Before Sunset</title>
+    <desc lang="en">Nine years ago, Jesse (Ethan Hawke) and Celine met by chance, spending one night together in Vienna and parting before sunrise. Now they cross paths again when Celine travels to Paris for Jesse’s book reading from a novel he wrote about their one-night stand. Though they’re both in relationships, their strong feelings for one another bring them closer than ever before.(n)</desc>
+    <credits>
+      <actor>Ethan Hawke</actor>
+      <actor>Julie Delpy</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007030000 +0000" stop="20211007050000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Before Midnight</title>
+    <desc lang="en">Two decades after meeting Celine on a train bound for Vienna, Jesse (Ethan Hawke) has settled down with her in Paris where they are raising beautiful twin girls. When they are invited by a work colleague to spend a summer in Greece, he begins to question his life decisions and entire relationship with the love of his life.(n)</desc>
+    <credits>
+      <director>Richard Linklater</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Julie Delpy</actor>
+      <writer>Richard Linklater, Julie Delpy, &amp;  Ethan Hawke</writer>
+      <writer>Richard Linklater &amp; Kim Krizan</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007050000 +0000" stop="20211007053000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Back to Life (?)</title>
+    <desc lang="en">In the aftermath of Lara’s vigil, Miri races to get ready for her date with Billy. But when Mark confronts her, desperate to find Mandy, it sets off a chain reaction of events that threaten to derail Miri’s first-ever proper date. Meanwhile, Oscar and Caroline discover a surprise visitor on their doorstep and are forced to finally reckon with Caroline’s affair.(n)</desc>
+    <credits>
+      <actor>Daisy Haggard</actor>
+      <writer>Daisy Haggard &amp; Laura Solon</writer>
+      <writer>Daisy Haggard</writer>
+      <writer>Ella Jones</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language, Mild Violence</writer>
+    </credits>
+    <episode-num system="onscreen">S2:E4</episode-num>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211007053000 +0000" stop="20211007063000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The L Word: Generation Q (?)</title>
+    <desc lang="en">Tensions rise between Bette, Tina and Angie on the day Angie’s set to meet her donor; Shane struggles with a secret; and Alice questions how open she should be about her personal life during her press tour. Meanwhile, Sophie is forced to confront some harsh realities about Finley; Dani’s personal and professional life are both thrown into further turmoil by what’s happening at Nùñez Inc; and Micah navigates his changing relationship with Maribel during a visit with her family.(n)</desc>
+    <credits>
+      <actor>Jennifer Beals</actor>
+      <actor>Katherine Moennig</actor>
+      <actor>Leisha Hailey</actor>
+      <actor>Arienne Mandi</actor>
+      <actor>Sepideh Moafi</actor>
+      <actor>Leo Sheng</actor>
+      <actor>Jacqueline Toboni</actor>
+      <actor>Rosanny Zayas</actor>
+      <actor>Jordan Hull</actor>
+      <writer>Allie Romano</writer>
+      <writer>Haifaa Al-Mansour</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+    </credits>
+    <episode-num system="onscreen">S2:E9</episode-num>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211007063000 +0000" stop="20211007070000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Work in Progress (?)</title>
+    <desc lang="en">Masking up to brave the outside world, Abby wills herself to overcome her fear of germs and the unknown to visit Edward in the hospital. Father and daughter reflect on their fraught relationship, acknowledge newfound similarities, all while searching for a bit of hope, humor, and, eventually, healing. It’s called therapy, ever heard of it?(n)</desc>
+    <credits>
+      <actor>Abby McEnany</actor>
+      <actor>Celeste Pechous</actor>
+      <actor>Karin Anglin</actor>
+      <actor>Julia Sweeney</actor>
+      <writer>Lilly Wachowski &amp; Abby McEnany</writer>
+      <writer>Abby McEnany &amp; Tim Mason</writer>
+      <writer>Yance Ford</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+    </credits>
+    <episode-num system="onscreen">S2:E9</episode-num>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211007070000 +0000" stop="20211007084000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Climax</title>
+    <desc lang="en">A troupe of young French dancers gather in an empty school for an all-night dance celebration that turns nightmarish when they discover they’ve been heavily indulging in cups of sangria laced with LSD. As they journey from jubilation to anarchy, notable crushes, rivalries and violent altercations present themselves amid a collective psychedelic breakdown.(n)</desc>
+    <credits>
+      <director>Gaspar Noé</director>
+      <actor>Sofia Boutella</actor>
+      <actor>Kiddy Smile</actor>
+      <actor>Romain Guillermic</actor>
+      <actor>Souheila Yacoub</actor>
+      <actor>Claude-Emmanuelle Gajan-Maull</actor>
+      <actor>Giselle Palmer</actor>
+      <actor>Taylor Kastle</actor>
+      <actor>Thea Carla Schott</actor>
+      <writer>Gaspar Noé</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Foreign</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007084000 +0000" stop="20211007101000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Ginger &amp; Rosa</title>
+    <desc lang="en">Two inseparable teenage girls growing up in 1960s London as the Cuban Missile Crisis looms explore friendship, activism and budding desire and encounter a pivotal event that will redefine their friendship. Stars Elle Fanning, Annette Bening and Oliver Platt.(n)</desc>
+    <credits>
+      <director>Sally Potter</director>
+      <actor>Elle Fanning</actor>
+      <actor>Alessandro Nivola</actor>
+      <actor>Christina Hendricks</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Jodhi May</actor>
+      <actor>Annette Bening</actor>
+      <actor>Alice Englert</actor>
+      <writer>Sally Potter</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211007101000 +0000" stop="20211007111000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Celeste Barber: Challenge Accepted</title>
+    <desc lang="en">Actor, Comedian, and Social Media Super Star Celeste Barber is the self-proclaimed queen of everyday sophistication and low budget lifestyle aspirations. Her meteoric rise on Instagram, parodying celebrity photographs, has resulted in her taking meetings with top moguls and awkwardly becoming friends with the very people she is parodying. In this exciting live show experience, Celeste explains the story behind some of her most famous images, her new relationship with famous people, the trolls, fans and comments that get under her skin.(n)</desc>
+    <credits>
+      <writer>Celeste Barber</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2019</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Stand Up</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211007111000 +0000" stop="20211007124000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Cold Comes the Night</title>
+    <desc lang="en">Chloe, the owner of a rundown motel, and her daughter, Sophia, are taken hostage by a partially blind career criminal (Bryan Cranston) and forced to be his eyes while he hunts for his lost cash.(n)</desc>
+    <credits>
+      <director>Tze Chun</director>
+      <actor>Alice Eve</actor>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Ursula Parker</actor>
+      <actor>Sarah Sokolovic</actor>
+      <actor>Ashlie Atkinson</actor>
+      <actor>Robin Lord Taylor</actor>
+      <actor>Dylan Chalfy</actor>
+      <writer>Tze Chun, Oz Perkins, &amp;  Nick Simon</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007124000 +0000" stop="20211007143000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">My Week With Marilyn</title>
+    <desc lang="en">Based on a firsthand account of a week spent with Marilyn Monroe (Michelle Williams) while she was in England filming "The Prince And The Showgirl" with Sir Laurence Olivier in 1956. Told from the perspective of 23-year-old Colin Clark (Eddie Redmayne), a lowly production hand on the set of the film who befriended the Hollywood icon, the film charts the brief, charged connection Monroe forged with the young man who came to understand her better than anyone.(n)</desc>
+    <credits>
+      <director>Simon Curtis</director>
+      <actor>Michelle Williams</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Eddie Redmayne</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Zoë Wanamaker</actor>
+      <actor>Emma Watson</actor>
+      <actor>Judi Dench</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007143000 +0000" stop="20211007163000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Fighter</title>
+    <desc lang="en">Two brothers come together to train for a historic boxing title bout that has the power to reunite their fractured family and bring pride to their hard-luck town. Micky Ward (Mark Wahlberg) is a struggling boxer long overshadowed by his older brother, Dicky (Christian Bale), a local legend battling his own demons. Their explosive relationship threatens to take them both down – but the bond of blood may be their only chance at redemption.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Christian Bale</actor>
+      <actor>Amy Adams</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007163000 +0000" stop="20211007180500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Long Shadow</title>
+    <desc lang="en">Black female deputy Bernadette Leblanc uncovers corruption in her rural Louisiana hometown when her lover Leslie—a public-interest lawyer—mysteriously turns up dead. As a railroad conglomerate maneuvers to buy up land, driving out the poor, Leblanc plunges down a rabbit hole of lies and deception where she’ll have to choose between toeing the line and exposing her town’s wealthiest and most powerful family.(n)</desc>
+    <credits>
+      <director>Daniel Lafrentz</director>
+      <actor>Aasha Davis</actor>
+      <actor>Yetide Badaki</actor>
+      <actor>Jim Klock</actor>
+      <actor>Linc Hand</actor>
+      <actor>Teri Wyble</actor>
+      <actor>Tess Harper</actor>
+      <writer>Daniel Lafrentz and Stephen Peltier</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211007180500 +0000" stop="20211007192000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Selfie from Hell</title>
+    <desc lang="en">Julia, an online vlogger from Germany, comes to the US to visit her cousin Hannah. Upon her arrival, Julia falls fatefully ill, prompting Hannah's suspicion of the strange and sudden illness. When unusual happenings start taking place in her home, Hannah begins a relentless internet search to discover the cause. She comes across Julia's vlog entries and finds herself immersed deep in the web.(n)</desc>
+    <credits>
+      <director>Erdal Ceylan</director>
+      <actor>Alyson Walker</actor>
+      <actor>Tony Giroux</actor>
+      <actor>Meelah Adams</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007192000 +0000" stop="20211007213000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Amy</title>
+    <desc lang="en">A documentary about Amy Winehouse—in her own words. A once-in-a-generation talent, Amy Winehouse was a pure jazz artist in the most authentic sense—she wrote and sang from the heart using her musical gifts to analyze her own problems. The combination of her raw honesty and virtuosity resulted in some of the most unique and adored songs of the modern era. But her massive success brought relentless and invasive media attention, which coupled with Amy's troubled relationships and precarious lifestyle, saw her life tragically unravel.(n)</desc>
+    <credits>
+      <director>Asif Kapadia</director>
+      <actor>Amy Winehouse</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007213000 +0000" stop="20211007232500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Fighter</title>
+    <desc lang="en">Two brothers come together to train for a historic boxing title bout that has the power to reunite their fractured family and bring pride to their hard-luck town. Micky Ward (Mark Wahlberg) is a struggling boxer long overshadowed by his older brother, Dicky (Christian Bale), a local legend battling his own demons. Their explosive relationship threatens to take them both down – but the bond of blood may be their only chance at redemption.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Christian Bale</actor>
+      <actor>Amy Adams</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211007232500 +0000" stop="20211008010000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Long Shadow</title>
+    <desc lang="en">Black female deputy Bernadette Leblanc uncovers corruption in her rural Louisiana hometown when her lover Leslie—a public-interest lawyer—mysteriously turns up dead. As a railroad conglomerate maneuvers to buy up land, driving out the poor, Leblanc plunges down a rabbit hole of lies and deception where she’ll have to choose between toeing the line and exposing her town’s wealthiest and most powerful family.(n)</desc>
+    <credits>
+      <director>Daniel Lafrentz</director>
+      <actor>Aasha Davis</actor>
+      <actor>Yetide Badaki</actor>
+      <actor>Jim Klock</actor>
+      <actor>Linc Hand</actor>
+      <actor>Teri Wyble</actor>
+      <actor>Tess Harper</actor>
+      <writer>Daniel Lafrentz and Stephen Peltier</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008010000 +0000" stop="20211008020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Murder in the Bayou (?)</title>
+    <desc lang="en">Over a decade has passed since the Jeff Davis 8 murders and the families of the victims are still searching for answers. Ethan Brown looks further into what exactly the victims may have known and what has stopped these cases from being solved. His search leads him to a shuttered motel called the Boudreaux Inn, a site of sex and drug trade activity at the time of the murders. Finale.(n)</desc>
+    <credits>
+      <director>Matthew Galkin and Matthew Galkin</director>
+      <director>TVMA</director>
+      <director>Adult Content, Adult Language</director>
+    </credits>
+    <episode-num system="onscreen">S1:E5</episode-num>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008020000 +0000" stop="20211008030000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The L Word: Generation Q (?)</title>
+    <desc lang="en">Tensions rise between Bette, Tina and Angie on the day Angie’s set to meet her donor; Shane struggles with a secret; and Alice questions how open she should be about her personal life during her press tour. Meanwhile, Sophie is forced to confront some harsh realities about Finley; Dani’s personal and professional life are both thrown into further turmoil by what’s happening at Nùñez Inc; and Micah navigates his changing relationship with Maribel during a visit with her family.(n)</desc>
+    <credits>
+      <actor>Jennifer Beals</actor>
+      <actor>Katherine Moennig</actor>
+      <actor>Leisha Hailey</actor>
+      <actor>Arienne Mandi</actor>
+      <actor>Sepideh Moafi</actor>
+      <actor>Leo Sheng</actor>
+      <actor>Jacqueline Toboni</actor>
+      <actor>Rosanny Zayas</actor>
+      <actor>Jordan Hull</actor>
+      <writer>Allie Romano</writer>
+      <writer>Haifaa Al-Mansour</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+    </credits>
+    <episode-num system="onscreen">S2:E9</episode-num>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008030000 +0000" stop="20211008043000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Cold Comes the Night</title>
+    <desc lang="en">Chloe, the owner of a rundown motel, and her daughter, Sophia, are taken hostage by a partially blind career criminal (Bryan Cranston) and forced to be his eyes while he hunts for his lost cash.(n)</desc>
+    <credits>
+      <director>Tze Chun</director>
+      <actor>Alice Eve</actor>
+      <actor>Logan Marshall-Green</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Ursula Parker</actor>
+      <actor>Sarah Sokolovic</actor>
+      <actor>Ashlie Atkinson</actor>
+      <actor>Robin Lord Taylor</actor>
+      <actor>Dylan Chalfy</actor>
+      <writer>Tze Chun, Oz Perkins, &amp;  Nick Simon</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008043000 +0000" stop="20211008054500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Aquaslash</title>
+    <desc lang="en">High school is over and the students of Valley Hills set out for an unforgettable weekend at the supposedly haunted Wet Valley waterpark. Five hundred dollars goes to the fastest team to fly down the slides; however, things quickly turn gruesome when a psychopath uses the slide’s twists and turns to slash his way through the competition.(n)</desc>
+    <credits>
+      <director>Renaud Gauthier</director>
+      <actor>Nicolas Fontaine</actor>
+      <actor>Brittany Drisdelle</actor>
+      <actor>Paul Zinno</actor>
+      <actor>Nick Walker</actor>
+      <actor>Chip Chuipka</actor>
+      <actor>Howard Rosenstein</actor>
+      <actor>Cameron Geller</actor>
+      <actor>Lanisa Dawn</actor>
+      <actor>Samantha Hodhod</actor>
+      <actor>Suzanna Lenir</actor>
+      <actor>Ryan Ali</actor>
+      <actor>Jay Lavigne</actor>
+      <actor>Ivan Ossa</actor>
+      <writer>Renaud Gauthier</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008054500 +0000" stop="20211008071000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Rafiki</title>
+    <desc lang="en">Kena and Ziki live very different lives in Nairobi. Kena works in her father's shop and awaits the start of nursing school, while Ziki passes the days hanging out with her friends and making up dance routines. Their paths cross when their fathers run against each other for seats in the County Assembly, and they find themselves drawn to each other. Soon their interest grows to affection and the girls find ways to love each other despite the ever-watching gaze of the neighborhood.(n)</desc>
+    <credits>
+      <director>Wanuri Kahiu</director>
+      <actor>Samantha Mugatsia</actor>
+      <actor>Sheila Munyiva</actor>
+      <writer>Wanuri Kahiu &amp; Jenna Cato Bass</writer>
+      <writer>Monica Arac de Nyeko</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Foreign</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008071000 +0000" stop="20211008083000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">A Serial Killer's Guide to Life</title>
+    <desc lang="en">30 something, self-help addict, Lou wants nothing more than to escape her overly controlling mother and the dead-end seaside town where she grew up. So when strange and strikingly confident new life coach Val invites her on a road trip of alternative therapies, Lou finds the perfect opportunity to leave, and the perfect person to become. Unfortunately for Lou, Val's a serial killer.(n)</desc>
+    <credits>
+      <director>Staten Cousins Roe</director>
+      <actor>Katie Brayben</actor>
+      <actor>Poppy Roe</actor>
+      <actor>Ben Lloyd Hughes</actor>
+      <actor>Sinead Matthews</actor>
+      <actor>Sian Clifford</actor>
+      <actor>Fiona Glascott</actor>
+      <actor>Tomiwa Edun</actor>
+      <writer>Staten Cousins Roe</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211008083000 +0000" stop="20211008101000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">My Week With Marilyn</title>
+    <desc lang="en">Based on a firsthand account of a week spent with Marilyn Monroe (Michelle Williams) while she was in England filming "The Prince And The Showgirl" with Sir Laurence Olivier in 1956. Told from the perspective of 23-year-old Colin Clark (Eddie Redmayne), a lowly production hand on the set of the film who befriended the Hollywood icon, the film charts the brief, charged connection Monroe forged with the young man who came to understand her better than anyone.(n)</desc>
+    <credits>
+      <director>Simon Curtis</director>
+      <actor>Michelle Williams</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Eddie Redmayne</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Zoë Wanamaker</actor>
+      <actor>Emma Watson</actor>
+      <actor>Judi Dench</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008101000 +0000" stop="20211008114500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">As Cool As I Am</title>
+    <desc lang="en">Clare Danes, James Marsden, and Sarah Bolger star in an insightful story of a smart teenage girl coming of age in a small town.(n)</desc>
+    <credits>
+      <director>Max Mayer</director>
+      <actor>Claire Danes</actor>
+      <actor>James Marsden</actor>
+      <actor>Sarah Bolger</actor>
+      <actor>Thomas Mann</actor>
+      <actor>Jeremy Sisto</actor>
+      <actor>Jon Tenney</actor>
+      <actor>Anika Noni Rose</actor>
+      <actor>Rhys Coiro</actor>
+      <actor>William Peltz</actor>
+      <actor>Mario Batali</actor>
+      <actor>Peter Fonda</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008114500 +0000" stop="20211008132000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Eighth Grade</title>
+    <desc lang="en">Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school – the end of her thus far disastrous eighth-grade year – before she begins high school. To cope, she publishes video blogs as a self-styled motivational advice-giver, though she spends much of her time obsessing over social media.(n)</desc>
+    <credits>
+      <director>Bo Burnham</director>
+      <actor>Elsie Fisher</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Emily Robinson</actor>
+      <actor>Jake Ryan</actor>
+      <actor>Daniel Zolghadri</actor>
+      <actor>Fred Hechinger</actor>
+      <actor>Imani Lewis</actor>
+      <actor>Luke Prael</actor>
+      <writer>Bo Burnham</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008132000 +0000" stop="20211008150000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Young Adult</title>
+    <desc lang="en">A struggling writer (Charlize Theron) returns to her hometown in a desperate search for a confidence boost. Reconnecting with an old classmate (Patton Oswalt) and trying to rekindle a romance with her now-married high school boyfriend, she does everything in her power to avoid acknowledging that her life didn’t work out as planned.(n)</desc>
+    <credits>
+      <director>Jason Reitman</director>
+      <actor>Charlize Theron</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Elizabeth Reaser</actor>
+      <actor>Collette Wolfe</actor>
+      <actor>Jill Eikenberry</actor>
+      <actor>Richard Bekins</actor>
+      <actor>Mary Beth Hurt</actor>
+      <actor>Kate Nowlin</actor>
+      <writer>Diablo Cody</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008150000 +0000" stop="20211008164500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Sh*thouse</title>
+    <desc lang="en">A lonely 19-year-old (Cooper Raiff) struggles with making friends and adjusting to life as a college freshman. However, everything changes when he attends a party at the legendary Shithouse and connects with his older, much cooler Resident Advisor (Dylan Gelula).(n)</desc>
+    <credits>
+      <director>Cooper Raiff</director>
+      <actor>Cooper Raiff</actor>
+      <actor>Dylan Gelula</actor>
+      <actor>Amy Landecker</actor>
+      <actor>Logan Miller</actor>
+      <actor>Olivia Welch</actor>
+      <writer>Cooper Raiff</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008164500 +0000" stop="20211008190000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Fried Green Tomatoes</title>
+    <desc lang="en">A housewife befriends an old lady in a nursing home and becomes enthralled by the tales she tells of a unique relationship between two women in 1930s Alabama. Academy Award winners Kathy Bates and Jessica Tandy star.(n)</desc>
+    <credits>
+      <actor>Kathy Bates</actor>
+      <actor>Jessica Tandy</actor>
+      <actor>Mary Stuart Masterson</actor>
+      <actor>Mary-Louise Parker</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211008190000 +0000" stop="20211008204000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">A Royal Night Out</title>
+    <desc lang="en">On V.E. Day 1945, Princesses Margaret and Elizabeth are permitted to go out into London to witness the celebrations, chaperoned by two Royal Guardsmen. Dissatisfied with the formal reception they’ve been permitted to attend, Margaret sneaks off, forcing Elizabeth to follow and sending them both on a wild adventure they’ll never forget.(n)</desc>
+    <credits>
+      <actor>Sarah Gadon</actor>
+      <actor>Bel Powley</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Emily Watson</actor>
+      <writer>Trevor De Silva and Kevin Hood</writer>
+      <writer>Julian Jarrold</writer>
+      <writer>PG13</writer>
+      <writer>Adult Content, Mild Violence</writer>
+      <writer>2015</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211008204000 +0000" stop="20211008223000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Moonlight</title>
+    <desc lang="en">An emotional, defining look at three chapters in the life of Chiron, a young African-American man growing up in Miami. As Chiron experiences the everyday struggles of childhood, adolescence and adulthood, his epic journey, grappling with his own identity and sexuality, is shaped by the support and love of those around him.(n)</desc>
+    <credits>
+      <director>Barry Jenkins</director>
+      <actor>Trevante Rhodes</actor>
+      <actor>Andre Holland</actor>
+      <actor>Janelle Monáe</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jharrel Jerome</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Alex Hibbert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211008223000 +0000" stop="20211009000000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Station Agent</title>
+    <desc lang="en">Peter Dinklage stars in this sweet comedy about a man whose life takes an unexpected turn when his boss dies and wills him a railroad depot in New Jersey, leading him to relocate to a small town where he is befriended by a talkative food vendor and a reclusive artist. Also stars Michelle Williams, Bobby Cannavale and Patricia Clarkson.(n)</desc>
+    <credits>
+      <director>Thomas McCarthy</director>
+      <actor>Peter Dinklage</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Michelle Williams</actor>
+      <actor>John Slattery</actor>
+      <actor>Lynn Cohen</actor>
+      <writer>Thomas McCarthy</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009000000 +0000" stop="20211009020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Dangerous Liaisons</title>
+    <desc lang="en">A jilted French noblewoman (Glenn Close) in pre-Revolution Paris plots revenge against her ex-lover, aiming to disgrace him and his new fiancé (Uma Thurman). Enlisting a fellow noble (John Malkovich) to carry out her scheme, however, she becomes embroiled in a salacious plot of his own. Co-starring Michelle Pfeiffer and Keanu Reeves.(n)</desc>
+    <credits>
+      <director>Stephen Frears</director>
+      <actor>Glenn Close</actor>
+      <actor>John Malkovich</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Swoosie Kurtz</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Mildred Natwick</actor>
+      <actor>Uma Thurman</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009020000 +0000" stop="20211009034000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">A Royal Night Out</title>
+    <desc lang="en">On V.E. Day 1945, Princesses Margaret and Elizabeth are permitted to go out into London to witness the celebrations, chaperoned by two Royal Guardsmen. Dissatisfied with the formal reception they’ve been permitted to attend, Margaret sneaks off, forcing Elizabeth to follow and sending them both on a wild adventure they’ll never forget.(n)</desc>
+    <credits>
+      <actor>Sarah Gadon</actor>
+      <actor>Bel Powley</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Emily Watson</actor>
+      <writer>Trevor De Silva and Kevin Hood</writer>
+      <writer>Julian Jarrold</writer>
+      <writer>PG13</writer>
+      <writer>Adult Content, Mild Violence</writer>
+      <writer>2015</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211009034000 +0000" stop="20211009053000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Moonlight</title>
+    <desc lang="en">An emotional, defining look at three chapters in the life of Chiron, a young African-American man growing up in Miami. As Chiron experiences the everyday struggles of childhood, adolescence and adulthood, his epic journey, grappling with his own identity and sexuality, is shaped by the support and love of those around him.(n)</desc>
+    <credits>
+      <director>Barry Jenkins</director>
+      <actor>Trevante Rhodes</actor>
+      <actor>Andre Holland</actor>
+      <actor>Janelle Monáe</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jharrel Jerome</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Alex Hibbert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009053000 +0000" stop="20211009080000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Under the Silver Lake</title>
+    <desc lang="en">Sam is a disenchanted 33-year-old who becomes infatuated with a suspicious woman swimming in his apartment complex’s pool. When she goes missing, he embarks on a spiraling investigation through Los Angeles to discover the truth behind her disappearance. His path leads him into the murky depths of mystery, scandal and conspiracy in the City of Angels.(n)</desc>
+    <credits>
+      <director>David Robert Mitchell</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Riley Keough</actor>
+      <actor>Topher Grace</actor>
+      <writer>David Robert Mitchell</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009080000 +0000" stop="20211009094000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Canyons</title>
+    <desc lang="en">When an LA trust-fund kid learns of a secret affair he spirals out of control as cruel mind games escalate into an act of bloody violence. Lindsay Lohan and James Deen star in this powerful erotic thriller from director Paul Schrader.(n)</desc>
+    <credits>
+      <director>Paul Schrader</director>
+      <actor>Lindsay Lohan</actor>
+      <actor>James Deen</actor>
+      <actor>Nolan Gerard Funk</actor>
+      <actor>Amanda Brooks</actor>
+      <actor>Tenille Houston</actor>
+      <actor>Gus Van Sant</actor>
+      <writer>Bret Easton Ellis</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Adult</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009094000 +0000" stop="20211009111000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Station Agent</title>
+    <desc lang="en">Peter Dinklage stars in this sweet comedy about a man whose life takes an unexpected turn when his boss dies and wills him a railroad depot in New Jersey, leading him to relocate to a small town where he is befriended by a talkative food vendor and a reclusive artist. Also stars Michelle Williams, Bobby Cannavale and Patricia Clarkson.(n)</desc>
+    <credits>
+      <director>Thomas McCarthy</director>
+      <actor>Peter Dinklage</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Michelle Williams</actor>
+      <actor>John Slattery</actor>
+      <actor>Lynn Cohen</actor>
+      <writer>Thomas McCarthy</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009111000 +0000" stop="20211009123500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Game 6</title>
+    <desc lang="en">A respected playwright suffers through a mid-life crisis as his beloved Boston Red Sox are simultaneously trounced by the New York Mets in the sixth game of the World Series in this comedy-drama starring Michael Keaton. As he suffers from the increasingly bad sports reports, writer Nicky Rogan sweats over a potentially bad review of his new work, his pending divorce, and the ill health of both his leading man and his father. Bebe Neuwirth, Catherine O'Hara and Griffin Dunne costar in the screenwriting debut of novelist Don DeLillo.(n)</desc>
+    <credits>
+      <actor>Michael Keaton</actor>
+      <actor>Bebe Neuwirth</actor>
+      <actor>Griffin Dunne</actor>
+      <actor>Catherine O'Hara</actor>
+      <actor>Robert Downey Jr.</actor>
+      <writer>Don DeLillo</writer>
+      <writer>Michael Hoffman</writer>
+      <writer>R</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2005</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009123500 +0000" stop="20211009141000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The One I Love</title>
+    <desc lang="en">A couple on the brink of separation (Mark Duplass, Elisabeth Moss) take a weekend getaway to a secluded estate at the suggestion of their therapist (Ted Danson). When the experience takes a turn for the surreal, the couple are forced to confront their issues and examine their future.(n)</desc>
+    <credits>
+      <actor>Mark Duplass</actor>
+      <actor>Elizabeth Moss</actor>
+      <actor>Ted Danson</actor>
+      <writer>Justin Lader</writer>
+      <writer>Charlie McDowell</writer>
+      <writer>R</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2014</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009141000 +0000" stop="20211009160500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Rear Window</title>
+    <desc lang="en">Bored, injured photojournalist Jeff (Jimmy Stewart) is confined to his apartment with no choice but to busy himself observing his neighbors. His voyeurism becomes detective work, however, when he believes he’s witnessed a murder. With Jeff’s high society girlfriend (Grace Kelly) joining in to investigate on foot, the couple work together to solve the crime. Directed by Alfred Hitchcock.(n)</desc>
+    <credits>
+      <director>Alfred Hitchcock</director>
+      <actor>James Stewart</actor>
+      <actor>Grace Kelly</actor>
+      <actor>Wendell Corey</actor>
+      <actor>Thelma Ritter</actor>
+      <actor>Raymond Burr</actor>
+    </credits>
+    <date>1954</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211009160500 +0000" stop="20211009174500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Dark Skies</title>
+    <desc lang="en">A supernatural thriller starring Josh Hamilton and Keri Russell as a husband and wife living in the suburbs with their young family, who witness an escalating series of disturbing events. When it becomes clear that they are being targeted by an unimaginably terrifying and deadly force, they take matters in their own hands to solve the mystery of what is after their family.(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Keri Russell</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Kadan Rockett</actor>
+      <actor>Josh Stamberg</actor>
+      <actor>L.J. Benet</actor>
+      <actor>J.K. Simmons</actor>
+      <writer>Scott Stewart</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211009174500 +0000" stop="20211009193000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Death Becomes Her</title>
+    <desc lang="en">Academy Award®-winning director Robert Zemeckis creates an adventure about two women, Academy Award®-winners Meryl Streep and Goldie Hawn, determined to win the heart of the same man, Bruce Willis. When they both drink an immortality potion, their mutual murder plans get a little complicated.(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Goldie Hawn</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Isabella Rossellini</actor>
+      <writer>Martin Donovan &amp; David Koepp</writer>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211009193000 +0000" stop="20211009210000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Rose: A Love Story</title>
+    <desc lang="en">Rose struggles with a terrifying disease that makes her thirst for blood, forcing her and her husband into isolation in the woods. When a mysterious stranger shows up at their home, however, their fragile marriage and rigidly routine lives grow even darker.(n)</desc>
+    <credits>
+      <actor>Matt Stokoe</actor>
+      <actor>Sophie Rundle</actor>
+      <actor>Nathan McMullen</actor>
+      <actor>Olive Gray</actor>
+      <writer>Matt Stokoe</writer>
+      <writer>Jennifer Sheridan</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language, Mild Violence</writer>
+      <writer>2021</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211009210000 +0000" stop="20211009223000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Rental</title>
+    <desc lang="en">A perfect weekend getaway takes a dangerous turn when two couples suspect that their host has twisted intentions. No one is safe as secrets are exposed and old friends are forced to confront past demons and betrayals.(n)</desc>
+    <credits>
+      <director>Dave Franco</director>
+      <actor>Dan Stevens</actor>
+      <actor>Alison Brie</actor>
+      <actor>Sheila Vand</actor>
+      <actor>Jeremy Allen White</actor>
+      <actor>Toby Huss</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211009223000 +0000" stop="20211010002000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Scary Stories to Tell in the Dark</title>
+    <desc lang="en">In the small town of Mill Valley,  the shadow of the Bellows family has loomed large for generations. It is in their mansion on the edge of town that Sarah, a young girl with horrible secrets, turned her tortured life into a series of scary stories, written in a book that has transcended time—stories that have a way of becoming all too real for a group of teenagers who discover Sarah's terrifying home.(n)</desc>
+    <credits>
+      <director>André Øvredal</director>
+      <actor>Zoe Coletti</actor>
+      <actor>Michael Garza</actor>
+      <actor>Gabriel Rush</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Dean Norris</actor>
+      <actor>Gil Bellows</actor>
+      <actor>Austin Zajur</actor>
+      <actor>Natalie Ganzhorn</actor>
+      <actor>Lorraine Toussaint</actor>
+      <actor>Kathleen Pollard</actor>
+      <actor>Deborah Pollitt</actor>
+      <actor>Victoria Fodor</actor>
+      <actor>Mark Steger</actor>
+      <actor>Javier Botet</actor>
+      <actor>Troy James</actor>
+      <actor>Kyle Labine</actor>
+      <actor>Karen Glave</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211010002000 +0000" stop="20211010020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Dark Skies</title>
+    <desc lang="en">A supernatural thriller starring Josh Hamilton and Keri Russell as a husband and wife living in the suburbs with their young family, who witness an escalating series of disturbing events. When it becomes clear that they are being targeted by an unimaginably terrifying and deadly force, they take matters in their own hands to solve the mystery of what is after their family.(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Keri Russell</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Kadan Rockett</actor>
+      <actor>Josh Stamberg</actor>
+      <actor>L.J. Benet</actor>
+      <actor>J.K. Simmons</actor>
+      <writer>Scott Stewart</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211010020000 +0000" stop="20211010033500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Becky</title>
+    <desc lang="en">A crime drama about a rebellious teenager named Becky who is brought to a weekend getaway at a lake house by her father in an effort to try to reconnect after her mother's death. The trip immediately takes a turn for the worse when a group of convicts on the run, led by the merciless Dominick, suddenly invade the lake house.(n)</desc>
+    <credits>
+      <director>Jonathan Milott and Cary Murnion</director>
+      <actor>Lulu Wilson</actor>
+      <actor>Kevin James</actor>
+      <actor>Joel McHale</actor>
+      <actor>Amanda Brugel</actor>
+      <actor>Robert Maillet</actor>
+      <writer>Nick Morris, Ruckus Skye, and  Lane Skye</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010033500 +0000" stop="20211010051000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Sound of Violence</title>
+    <desc lang="en">Alexis, a formerly deaf woman, recovered her hearing during the brutal murder of her family when she was 10. The intensely visceral experience also ignited an addiction to the sound of human pain, which in her adulthood developed into a unique musical career. When she is faced with the prospect of losing her hearing again, however, she embarks on a gruesome quest to preserve it.(n)</desc>
+    <credits>
+      <director>Alex Noyer</director>
+      <actor>Jasmin Savoy Brown</actor>
+      <actor>Lili Simmons</actor>
+      <actor>James Jagger</actor>
+      <writer>Alex Noyer</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211010051000 +0000" stop="20211010070000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">54 (Director's Cut)</title>
+    <desc lang="en">Shane, a Jersey boy with big dreams, crosses the river in hopes of finding a more exciting life at Studio 54. When Steve Rubell, the mastermind behind the infamous disco, plucks Shane from the sea of faces, Shane lands a coveted job.(n)</desc>
+    <credits>
+      <director>Mark Christopher</director>
+      <actor>Ryan Phillippe</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Mike Myers</actor>
+      <actor>Sela Ward</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Sherry Stringfield</actor>
+      <writer>Mark Christopher</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010070000 +0000" stop="20211010090500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">On the Road</title>
+    <desc lang="en">A young writer, Sal Paradise (Sam Riley), is shaken and ultimately redefined by the arrival of Dean Moriarty (Garrett Hedlund), a free-spirited, fearless, fast-talking Westerner and his girl, Marylou (Kristen Stewart). Directed by acclaimed filmmaker Walter Salles and based on the iconic novel by Jack Kerouac.(n)</desc>
+    <credits>
+      <director>Walter Salles</director>
+      <actor>Sam Riley</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Amy Adams</actor>
+      <actor>Tom Sturridge</actor>
+      <actor>Danny Morgan</actor>
+      <actor>Alice Braga</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Viggo Mortensen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010090500 +0000" stop="20211010110500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The War of the Roses</title>
+    <desc lang="en">When an 18-year marriage turns sour, the unhappy couple’s divorce grows increasingly absurd as they fight over the ownership of their mansion. Though lawyers try to step in and mediate, the vicious battle between the exes goes down a dark and dangerous path. Starring Kathleen Turner, Michael Douglas, and Danny DeVito.(n)</desc>
+    <credits>
+      <actor>Michael Douglas</actor>
+      <actor>Kathleen Turner</actor>
+      <actor>Danny DeVito</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010110500 +0000" stop="20211010124000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Babe</title>
+    <desc lang="en">Young Babe has no way of knowing how much his world is about to change when his mother is suddenly hauled off in a truck that takes pigs away. Babe then arrives at the farm of Mr. Hoggett and his large and lively wife, Esme. All kinds of species live on the farm, and some of the animals welcome Babe with open paws, while a few resent the friendly little porker. Babe's approach to the barnyard life is different from all the others, and he goes to great lengths to find acceptance.(n)</desc>
+    <credits>
+      <director>Chris Noonan</director>
+      <actor>James Cromwell</actor>
+      <actor>Magda Szubanski</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211010124000 +0000" stop="20211010143000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Babe: Pig in the City</title>
+    <desc lang="en">Babe returns to Farmer Hoggett's farm, fresh from his victory in the sheepherding contest. After Hoggett is injured and unable to work, Babe must go to the big city to save the day. George Miller returns to direct.(n)</desc>
+    <credits>
+      <director>George Miller</director>
+      <actor>Magda Szubanski</actor>
+      <actor>James Cromwell</actor>
+      <actor>Mary Stein</actor>
+      <actor>Mickey Rooney</actor>
+      <actor>Elizabeth Daily</actor>
+      <writer>George Miller, Judy Morris, and  Mark Lamprell</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211010143000 +0000" stop="20211010160500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Ruthless People</title>
+    <desc lang="en">Murder plots, inept kidnappers, fortune hunters and the "dumbest person in the world" are the stuff that drive this uproarious black comedy about a greedy businessman (Danny DeVito) who doesn't want his kidnapped wife (Bette Midler) returned to him alive. Judge Reinhold costars in this wacky blockbuster hit.(n)</desc>
+    <credits>
+      <director>Jim Abrahams, David Zucker, and  Jerry Zucker</director>
+      <actor>Danny DeVito</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Helen Slater</actor>
+      <actor>Bette Midler</actor>
+      <writer>Dale Launer</writer>
+      <writer>O. Henry</writer>
+    </credits>
+    <date>1986</date>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010160500 +0000" stop="20211010180000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Guess Who</title>
+    <desc lang="en">When it comes to the welfare of his family, Percy is a proud African American man under the belief that he is always right. His stubbornness holds true when he’s introduced to his daughter’s new boyfriend, a successful stockbroker who happens to be white. Angered by what he believes to be a mistake, Percy tries to undermine his daughter’s new relationship at every turn.(n)</desc>
+    <credits>
+      <director>Kevin Rodney Sullivan</director>
+      <actor>Bernie Mac</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Judith Scott</actor>
+      <actor>Hal Williams</actor>
+      <actor>Kellee Stewart</actor>
+      <actor>Robert Curtis Brown</actor>
+      <actor>RonReaco Lee</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Phil Reeves</actor>
+      <actor>Sherri Shepherd</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211010180000 +0000" stop="20211010200000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Moonlight</title>
+    <desc lang="en">An emotional, defining look at three chapters in the life of Chiron, a young African-American man growing up in Miami. As Chiron experiences the everyday struggles of childhood, adolescence and adulthood, his epic journey, grappling with his own identity and sexuality, is shaped by the support and love of those around him.(n)</desc>
+    <credits>
+      <director>Barry Jenkins</director>
+      <actor>Trevante Rhodes</actor>
+      <actor>Andre Holland</actor>
+      <actor>Janelle Monáe</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jharrel Jerome</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Alex Hibbert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211010200000 +0000" stop="20211010220000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Remember Me</title>
+    <desc lang="en">Two damaged young people (Robert Pattinson and Emilie de Ravin) come together over their mutual losses: his parents have split over the suicide of his brother, while she witnessed the murder of her mother. Pierce Brosnan costars in this emotionally charged drama.(n)</desc>
+    <credits>
+      <director>Allen Coulter</director>
+      <actor>Robert Pattinson</actor>
+      <actor>Emile de Ravin</actor>
+      <actor>Chris Cooper</actor>
+      <actor>Lena Olin</actor>
+      <actor>Tate Ellington</actor>
+      <actor>Ruby Jerins</actor>
+      <actor>Pierce Brosnan</actor>
+      <writer>Will Fetters</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211010220000 +0000" stop="20211011000500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Pleasantville</title>
+    <desc lang="en">Tobey Maguire stars in a modern fairy about a fictional town granted a chance to experience the triumphs and tragedies of real life when two late 20th Century teenagers accidentally bring living color to a black-and-white '50s utopia...and set off a revolution. Jeff Daniels, Joan Allen and William H. Macy co-star.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Joan Allen</actor>
+      <actor>William H. Macy</actor>
+      <actor>J.T. Walsh</actor>
+      <actor>Reese Witherspoon</actor>
+      <writer>Gary Ross</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211011000500 +0000" stop="20211011020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Sh*thouse</title>
+    <desc lang="en">A lonely 19-year-old (Cooper Raiff) struggles with making friends and adjusting to life as a college freshman. However, everything changes when he attends a party at the legendary Shithouse and connects with his older, much cooler Resident Advisor (Dylan Gelula).(n)</desc>
+    <credits>
+      <director>Cooper Raiff</director>
+      <actor>Cooper Raiff</actor>
+      <actor>Dylan Gelula</actor>
+      <actor>Amy Landecker</actor>
+      <actor>Logan Miller</actor>
+      <actor>Olivia Welch</actor>
+      <writer>Cooper Raiff</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011020000 +0000" stop="20211011033500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Spring Breakers</title>
+    <desc lang="en">After four college girls are busted for robbing a fast food shack to fund their spring break, they are unexpectedly bailed out by an infamous local thug who lures them into a criminal underbelly and takes them on a wild, violent and riotous vacation. Stars Selena Gomez and James Franco.(n)</desc>
+    <credits>
+      <director>Harmony Korine</director>
+      <actor>James Franco</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Ashely Benson</actor>
+      <actor>Rachel Korine</actor>
+      <actor>Gucci Mane</actor>
+      <writer>Harmony Korine</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011033500 +0000" stop="20211011053000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The To Do List</title>
+    <desc lang="en">All-star comedy about a type-A teenage girl who tries to shed her uptight image by undertaking a list of all the outrageous activities she missed out on in high school, before she goes to college. Stars Aubrey Plaza, Rachel Bilson and Andy Samberg.(n)</desc>
+    <credits>
+      <director>Maggie Carey</director>
+      <actor>Aubrey Plaza</actor>
+      <actor>Johnny Simmons</actor>
+      <actor>Bill Hader</actor>
+      <actor>Scott Porter</actor>
+      <actor>Rachel Bilson</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011053000 +0000" stop="20211011073000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Moonlight</title>
+    <desc lang="en">An emotional, defining look at three chapters in the life of Chiron, a young African-American man growing up in Miami. As Chiron experiences the everyday struggles of childhood, adolescence and adulthood, his epic journey, grappling with his own identity and sexuality, is shaped by the support and love of those around him.(n)</desc>
+    <credits>
+      <director>Barry Jenkins</director>
+      <actor>Trevante Rhodes</actor>
+      <actor>Andre Holland</actor>
+      <actor>Janelle Monáe</actor>
+      <actor>Ashton Sanders</actor>
+      <actor>Jharrel Jerome</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Alex Hibbert</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011073000 +0000" stop="20211011090000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Funny Women of a Certain Age</title>
+    <date>2019</date>
+    <category lang="en">Stand Up</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211011090000 +0000" stop="20211011110500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The China Syndrome</title>
+    <desc lang="en">An ambitious TV reporter (Jane Fonda) witnesses a nuclear accident that plant supervisors deem "a little glitch." But her cameraman (Michael Douglas) secretly films it, and it becomes clear that the "glitch" nearly caused a reactor meltdown. When the plant's veteran engineer (Jack Lemmon) discovers the problem and tries to bring it to light, an attempt is made on his life. In desperation, he forcibly takes control of the plant, but the plant's corporate officers will stop at nothing to make sure their secret never gets out.(n)</desc>
+    <credits>
+      <director>James Bridges</director>
+      <actor>Jane Fonda</actor>
+      <actor>Jack Lemmon</actor>
+      <actor>Michael Douglas</actor>
+      <actor>Scott Brady</actor>
+      <actor>James Hampton</actor>
+      <actor>Peter Donat</actor>
+      <actor>Wilford Brimley</actor>
+      <writer>Mike Gray, T.J. Cook, &amp;  James Bridges</writer>
+    </credits>
+    <date>1979</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211011110500 +0000" stop="20211011133000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">For Love of the Game</title>
+    <desc lang="en">An aging MLB player (Kevin Costner) who has dedicated his whole life to baseball is forced to accept that his career is coming to an end. As he plays his last ever game, he reflects on the sacrifices it took to get him to where he is - particularly his choice of baseball over the love of his life. Co-starring Kelly Preston and John C. Reilly.(n)</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Kevin Costner</actor>
+      <actor>Kelly Preston</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Jena Malone</actor>
+      <actor>Brian Cox</actor>
+      <actor>Addie Daddio</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211011133000 +0000" stop="20211011153000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Scary Stories to Tell in the Dark</title>
+    <desc lang="en">In the small town of Mill Valley,  the shadow of the Bellows family has loomed large for generations. It is in their mansion on the edge of town that Sarah, a young girl with horrible secrets, turned her tortured life into a series of scary stories, written in a book that has transcended time—stories that have a way of becoming all too real for a group of teenagers who discover Sarah's terrifying home.(n)</desc>
+    <credits>
+      <director>André Øvredal</director>
+      <actor>Zoe Coletti</actor>
+      <actor>Michael Garza</actor>
+      <actor>Gabriel Rush</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Dean Norris</actor>
+      <actor>Gil Bellows</actor>
+      <actor>Austin Zajur</actor>
+      <actor>Natalie Ganzhorn</actor>
+      <actor>Lorraine Toussaint</actor>
+      <actor>Kathleen Pollard</actor>
+      <actor>Deborah Pollitt</actor>
+      <actor>Victoria Fodor</actor>
+      <actor>Mark Steger</actor>
+      <actor>Javier Botet</actor>
+      <actor>Troy James</actor>
+      <actor>Kyle Labine</actor>
+      <actor>Karen Glave</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211011153000 +0000" stop="20211011170000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Rental</title>
+    <desc lang="en">A perfect weekend getaway takes a dangerous turn when two couples suspect that their host has twisted intentions. No one is safe as secrets are exposed and old friends are forced to confront past demons and betrayals.(n)</desc>
+    <credits>
+      <director>Dave Franco</director>
+      <actor>Dan Stevens</actor>
+      <actor>Alison Brie</actor>
+      <actor>Sheila Vand</actor>
+      <actor>Jeremy Allen White</actor>
+      <actor>Toby Huss</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011170000 +0000" stop="20211011183500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Monster</title>
+    <desc lang="en">A divorced mother and her headstrong daughter make an emergency late-night road trip to visit the girl’s father. A startling collision, however, leaves their car completely dead on a deserted country road. While attempting to get help, they’re faced with a terrifying monster who refuses to let them leave.(n)</desc>
+    <credits>
+      <director>Bryan Bertino</director>
+      <actor>Zoe Kazan</actor>
+      <actor>Ella Ballentine</actor>
+      <actor>Scott Speedman</actor>
+      <writer>Bryan Bertino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011183500 +0000" stop="20211011203000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Death Becomes Her</title>
+    <desc lang="en">Academy Award®-winning director Robert Zemeckis creates an adventure about two women, Academy Award®-winners Meryl Streep and Goldie Hawn, determined to win the heart of the same man, Bruce Willis. When they both drink an immortality potion, their mutual murder plans get a little complicated.(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Goldie Hawn</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Isabella Rossellini</actor>
+      <writer>Martin Donovan &amp; David Koepp</writer>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211011203000 +0000" stop="20211011223000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Fighter</title>
+    <desc lang="en">Two brothers come together to train for a historic boxing title bout that has the power to reunite their fractured family and bring pride to their hard-luck town. Micky Ward (Mark Wahlberg) is a struggling boxer long overshadowed by his older brother, Dicky (Christian Bale), a local legend battling his own demons. Their explosive relationship threatens to take them both down – but the bond of blood may be their only chance at redemption.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Christian Bale</actor>
+      <actor>Amy Adams</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211011223000 +0000" stop="20211012000000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Paranormal Activity 3</title>
+    <desc lang="en">Two young sisters are enjoying an idyllic childhood, growing up in California in 1988. When they start to hear strange noises at night, their father installs night cameras to reveal the source. Soon they discover an invisible entity and reveal a swarm of supernatural occurrences – all with sinister intentions.(n)</desc>
+    <credits>
+      <director>Tod Williams</director>
+      <actor>Katie Featherston</actor>
+      <actor>Micah Sloat</actor>
+      <actor>Ashley Palmer</actor>
+      <actor>Amber Armstrong</actor>
+      <actor>Mark Fredrichs</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012000000 +0000" stop="20211012020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Birds</title>
+    <desc lang="en">After Melanie meets Mitch at a San Francisco pet store, she decides to surprise him at his family home in a nearby coastal town, bringing a pair of lovebirds as a gift. They soon strike up a romance, but the relationship takes an unsettling turn when all the birds they encounter afterward become violent. Directed by Alfred Hitchcock.(n)</desc>
+    <credits>
+      <director>Alfred Hitchcock</director>
+      <actor>Rod Taylor</actor>
+      <actor>Tippi Hedren</actor>
+      <actor>Jessica Tandy</actor>
+      <actor>Suzanne Pleshette</actor>
+    </credits>
+    <date>1963</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211012020000 +0000" stop="20211012040000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Psycho</title>
+    <desc lang="en">When a woman on the run from the police checks into the ramshackle Bates Motel, she becomes an object of obsession for the motel’s strange proprietor. Directed by Alfred Hitchcock.(n)</desc>
+    <credits>
+      <director>Alfred Hitchcock</director>
+      <actor>Anthony Perkins</actor>
+      <actor>Janet Leigh</actor>
+      <actor>Vera Miles</actor>
+      <actor>John Gavin</actor>
+      <actor>Martin Balsam</actor>
+      <actor>John McIntire</actor>
+    </credits>
+    <date>1960</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012040000 +0000" stop="20211012060000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Fighter</title>
+    <desc lang="en">Two brothers come together to train for a historic boxing title bout that has the power to reunite their fractured family and bring pride to their hard-luck town. Micky Ward (Mark Wahlberg) is a struggling boxer long overshadowed by his older brother, Dicky (Christian Bale), a local legend battling his own demons. Their explosive relationship threatens to take them both down – but the bond of blood may be their only chance at redemption.(n)</desc>
+    <credits>
+      <director>David O. Russell</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Christian Bale</actor>
+      <actor>Amy Adams</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Sports</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012060000 +0000" stop="20211012074000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Asylum</title>
+    <desc lang="en">A psychiatrist's wife is strangely drawn to one of her husband's patients, a prison inmate who murdered his wife, in this dark drama based on the novel by Patrick Marber and starring Natasha Richardson, Hugh Bonneville, Marton Csokas, Ian McKellen and Joss Ackland.(n)</desc>
+    <credits>
+      <director>David Mackenzie</director>
+      <actor>Natasha Richardson</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Hugh Bonneville</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012074000 +0000" stop="20211012092000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Canyons</title>
+    <desc lang="en">When an LA trust-fund kid learns of a secret affair he spirals out of control as cruel mind games escalate into an act of bloody violence. Lindsay Lohan and James Deen star in this powerful erotic thriller from director Paul Schrader.(n)</desc>
+    <credits>
+      <director>Paul Schrader</director>
+      <actor>Lindsay Lohan</actor>
+      <actor>James Deen</actor>
+      <actor>Nolan Gerard Funk</actor>
+      <actor>Amanda Brooks</actor>
+      <actor>Tenille Houston</actor>
+      <actor>Gus Van Sant</actor>
+      <writer>Bret Easton Ellis</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Adult</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012092000 +0000" stop="20211012110000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">My Week With Marilyn</title>
+    <desc lang="en">Based on a firsthand account of a week spent with Marilyn Monroe (Michelle Williams) while she was in England filming "The Prince And The Showgirl" with Sir Laurence Olivier in 1956. Told from the perspective of 23-year-old Colin Clark (Eddie Redmayne), a lowly production hand on the set of the film who befriended the Hollywood icon, the film charts the brief, charged connection Monroe forged with the young man who came to understand her better than anyone.(n)</desc>
+    <credits>
+      <director>Simon Curtis</director>
+      <actor>Michelle Williams</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Eddie Redmayne</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Zoë Wanamaker</actor>
+      <actor>Emma Watson</actor>
+      <actor>Judi Dench</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012110000 +0000" stop="20211012123000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">American Selfie: One Nation Shoots Itself</title>
+    <desc lang="en">Filmmaker Alexandra Pelosi travels across the United States chronicling the unprecedented social and political upheaval of 2020 as it unfolds. From political rallies, environmental protests, Black Lives Matter marches and the still-developing Covid-19 crisis, Americans on both sides of the political divide react to events that have defined this turbulent year.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Documentary</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211012123000 +0000" stop="20211012140500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Antiquities</title>
+    <desc lang="en">After his father's death, a young man searches to find who his dad was only to stumble onto himself.(n)</desc>
+    <credits>
+      <director>Daniel Campbell</director>
+      <actor>Andrew J. West</actor>
+      <actor>Michaela Watkins</actor>
+      <actor>Michael Gladis</actor>
+      <actor>Ashley Greene</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Troy Anthony Hogan</actor>
+      <actor>Graham Gordy</actor>
+      <actor>Roger Scott</actor>
+      <actor>Melanie Haynes</actor>
+      <actor>Jeff Bailey</actor>
+      <actor>Jason Thompson</actor>
+      <writer>Graham Gordy &amp; Daniel Campbell</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211012140500 +0000" stop="20211012160000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Paradise Cove</title>
+    <desc lang="en">When a contractor and his wife move to Malibu to flip his mother’s beachfront property, they are terrorized by a deranged homeless woman living beneath the house.(n)</desc>
+    <credits>
+      <actor>Todd Grinnell</actor>
+      <actor>Kristin Bauer van Straten</actor>
+      <actor>Mena Suvari</actor>
+      <writer>Sherry Klein</writer>
+      <writer>Martin Guigui</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language, Violence</writer>
+      <writer>2021</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211012160000 +0000" stop="20211012173500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Blackcoat's Daughter</title>
+    <desc lang="en">During the dead of winter, two students stranded over break at an isolated Catholic prep school face a sinister threat from an unseen force. Unbeknownst to them, a troubled young woman (Emma Roberts) embarks on a mysterious journey to the school at the same time.(n)</desc>
+    <credits>
+      <director>Oz Perkins</director>
+      <actor>Emma Roberts</actor>
+      <actor>Kiernan Shipka</actor>
+      <actor>Lucy Boynton</actor>
+      <actor>Lauren Holly</actor>
+      <actor>James Remar</actor>
+      <writer>Oz Perkins</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211012173500 +0000" stop="20211012194500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Vertigo</title>
+    <desc lang="en">A detective with a fear of heights (Jimmy Stewart) is tasked with surveilling his friend’s suicidal wife (Kim Novak) to prevent her from killing herself. The more he sees of the tortured, beautiful woman, however, the more infatuated he becomes, sending him down a dizzying path of obsession and desperation. Directed by Alfred Hitchcock.(n)</desc>
+    <credits>
+      <director>Alfred Hitchcock</director>
+      <actor>James Stewart</actor>
+      <actor>Kim Novak</actor>
+      <actor>Barbara Bel Geddes</actor>
+      <actor>Tom Helmore</actor>
+      <actor>Henry Jones</actor>
+    </credits>
+    <date>1958</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211012194500 +0000" stop="20211012220000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Pleasantville</title>
+    <desc lang="en">Tobey Maguire stars in a modern fairy about a fictional town granted a chance to experience the triumphs and tragedies of real life when two late 20th Century teenagers accidentally bring living color to a black-and-white '50s utopia...and set off a revolution. Jeff Daniels, Joan Allen and William H. Macy co-star.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Jeff Daniels</actor>
+      <actor>Joan Allen</actor>
+      <actor>William H. Macy</actor>
+      <actor>J.T. Walsh</actor>
+      <actor>Reese Witherspoon</actor>
+      <writer>Gary Ross</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211012220000 +0000" stop="20211013000500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The China Syndrome</title>
+    <desc lang="en">An ambitious TV reporter (Jane Fonda) witnesses a nuclear accident that plant supervisors deem "a little glitch." But her cameraman (Michael Douglas) secretly films it, and it becomes clear that the "glitch" nearly caused a reactor meltdown. When the plant's veteran engineer (Jack Lemmon) discovers the problem and tries to bring it to light, an attempt is made on his life. In desperation, he forcibly takes control of the plant, but the plant's corporate officers will stop at nothing to make sure their secret never gets out.(n)</desc>
+    <credits>
+      <director>James Bridges</director>
+      <actor>Jane Fonda</actor>
+      <actor>Jack Lemmon</actor>
+      <actor>Michael Douglas</actor>
+      <actor>Scott Brady</actor>
+      <actor>James Hampton</actor>
+      <actor>Peter Donat</actor>
+      <actor>Wilford Brimley</actor>
+      <writer>Mike Gray, T.J. Cook, &amp;  James Bridges</writer>
+    </credits>
+    <date>1979</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20211013000500 +0000" stop="20211013020000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The American President</title>
+    <desc lang="en">An environmental lobbyist (Annette Bening) becomes romantically involved with the widowed president of the United States (Michael Douglas) but their relationship jeopardizes his political agenda.(n)</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Michael Douglas</actor>
+      <actor>Annette Bening</actor>
+      <actor>Martin Sheen</actor>
+      <actor>David Paymer</actor>
+      <actor>Samantha Mathis</actor>
+      <actor>Michael J. Fox</actor>
+      <writer>Aaron Sorkin</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211013020000 +0000" stop="20211013040000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Guess Who</title>
+    <desc lang="en">When it comes to the welfare of his family, Percy is a proud African American man under the belief that he is always right. His stubbornness holds true when he’s introduced to his daughter’s new boyfriend, a successful stockbroker who happens to be white. Angered by what he believes to be a mistake, Percy tries to undermine his daughter’s new relationship at every turn.(n)</desc>
+    <credits>
+      <director>Kevin Rodney Sullivan</director>
+      <actor>Bernie Mac</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Judith Scott</actor>
+      <actor>Hal Williams</actor>
+      <actor>Kellee Stewart</actor>
+      <actor>Robert Curtis Brown</actor>
+      <actor>RonReaco Lee</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Phil Reeves</actor>
+      <actor>Sherri Shepherd</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211013040000 +0000" stop="20211013060000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Nest</title>
+    <desc lang="en">Searching for new business opportunities, an ambitious entrepreneur (Jude Law) uproots his American family and moves them to an old county manor in his native country of England. As he increasingly finds himself at odds with his wife (Carrie Coon), their family begins to unravel as they descend into the bleak despair of 1980’s Britain.(n)</desc>
+    <credits>
+      <director>Sean Durkin</director>
+      <actor>Jude Law</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Charlie Shotwell</actor>
+      <actor>Oona Roche</actor>
+      <actor>Adeel Akhtar</actor>
+      <writer>Sean Durkin</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211013060000 +0000" stop="20211013074500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">How to Talk to Girls at Parties</title>
+    <desc lang="en">Enn is a shy suburban London teenager in 1977, sneaking out with his friends to after-hours punk parties. One night they stumble upon a bizarre gathering of sexy teenagers from another planet, visiting Earth to complete a mysterious rite of passage. Enn falls madly in love with Zan, a beautiful and rebellious alien teenager. Together they embark on a delirious adventure through the punk rock world of 1970s London, inadvertently setting off a series of events that will lead to the ultimate showdown of punks vs. aliens.(n)</desc>
+    <credits>
+      <director>John Cameron Mitchell</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Elle Fanning</actor>
+      <actor>Alex Sharp</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Matt Lucas</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211013074500 +0000" stop="20211013093000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Turning</title>
+    <desc lang="en">A young governess takes a job as a nanny for two young orphans at an isolated Gothic mansion in the Maine countryside and soon learns that the children are emotionally distant and unstable. When strange events start to plague the governess and the siblings, she begins to suspect that the estate's dark corridors are home to a malevolent entity. A modern take on Henry James' novella "The Turn of the Screw.".(n)</desc>
+    <credits>
+      <director>Floria Sigismondi</director>
+      <actor>Mackenzie Davis</actor>
+      <actor>Finn Wolfhard</actor>
+      <actor>Brooklyn Prince</actor>
+      <actor>Barbara Marten</actor>
+      <actor>Joely Richardson</actor>
+      <actor>Niall Greig Fulton</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211013093000 +0000" stop="20211013104500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Fits</title>
+    <desc lang="en">Eleven-year-old tomboy Toni is entranced by a dance team she sees practicing in the same gym where she boxes with her brother. Admiring the confidence and tight bonds of the all-girl group, she masters dance drills and routines from the sidelines. But her desire to fit in takes an unexpected turn when the team suffers a mysterious outbreak of fainting spells.(n)</desc>
+    <credits>
+      <director>Anna Rose Holmer</director>
+      <actor>Royalty Hightower</actor>
+      <actor>Alexis Neblett</actor>
+      <actor>Da'Sean Minor</actor>
+      <actor>Lauren Gibson</actor>
+      <actor>Makyla Burnam</actor>
+      <actor>Inayah Rodgers</actor>
+      <actor>Antonio A.B. Grant Jr.</actor>
+      <actor>Q-Kidz Dance Team</actor>
+      <writer>Anna Rose Holmer</writer>
+      <writer>Anna Rose Holmer, Saela Davis, and  Lisa Kjerulff</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Music</category>
+    <rating system="CA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211013104500 +0000" stop="20211013121000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">2nd Chance for Christmas</title>
+    <desc lang="en">Pop singer Chance Love’s success has made her egotistical and selfish. But on Christmas Eve, she is visited by musical ghosts of Christmas past, present and future, who remind her what is truly important. A modern adaptation of “A Christmas Carol.”.(n)</desc>
+    <credits>
+      <actor>Brittany Martinez  Underwood</actor>
+      <actor>David Chokachi</actor>
+      <actor>Kristos Andrews</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Marc Christopher Lawrence</actor>
+      <actor>Mark McGrath</actor>
+      <actor>Jonathan Lipnicki</actor>
+      <actor>Vivica A. Fox</actor>
+      <actor>Rob Van Dam</actor>
+      <actor>Randy Wayne</actor>
+      <actor>Nicole Bilderback</actor>
+      <actor>Zack Ward</actor>
+      <actor>Tara Reid</actor>
+      <writer>Scott Thomas Reynold and Danny Max</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <rating system="CA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211013121000 +0000" stop="20211013133000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Speed of Life</title>
+    <desc lang="en">A woman loses the man she loves when he falls into a wormhole during an argument.(n)</desc>
+    <credits>
+      <director>Liz Manashil</director>
+      <actor>Ann Dowd</actor>
+      <actor>Ray Santiago</actor>
+      <actor>Vella Lovell</actor>
+      <actor>Sean Wright</actor>
+      <writer>Liz Manashil</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Sci Fi/fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211013133000 +0000" stop="20211013153000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The Birds</title>
+    <desc lang="en">After Melanie meets Mitch at a San Francisco pet store, she decides to surprise him at his family home in a nearby coastal town, bringing a pair of lovebirds as a gift. They soon strike up a romance, but the relationship takes an unsettling turn when all the birds they encounter afterward become violent. Directed by Alfred Hitchcock.(n)</desc>
+    <credits>
+      <director>Alfred Hitchcock</director>
+      <actor>Rod Taylor</actor>
+      <actor>Tippi Hedren</actor>
+      <actor>Jessica Tandy</actor>
+      <actor>Suzanne Pleshette</actor>
+    </credits>
+    <date>1963</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20211013153000 +0000" stop="20211013173000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Grace and Grit</title>
+    <desc lang="en">The true love story of philosopher Ken Wilber and his wife Treya throughout her battle with metastatic cancer.(n)</desc>
+    <credits>
+      <actor>Mena Suvari</actor>
+      <actor>Stuart Townsend</actor>
+      <actor>Frances Fisher</actor>
+      <actor>Rebekah Graf</actor>
+      <actor>Nick Stahl</actor>
+      <actor>Mariel Hemingway</actor>
+      <writer>Sabastian Siegal</writer>
+      <writer>Ken Wilber</writer>
+      <writer>TVMA</writer>
+      <writer>Adult Content, Adult Language</writer>
+      <writer>2021</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <rating system="CA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20211013173000 +0000" stop="20211013190000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Open Water</title>
+    <desc lang="en">In search of much-needed relaxation, Susan and Daniel decide to take a tropical island vacation. While on a scuba diving tour several miles off the coast, the couple is accidentally left stranded in the middle of the ocean. As time slowly ticks by, Susan and Daniel are terrified to discover they are not alone, but adrift in shark-infested waters. Now the couple must fight to stay afloat, keep warm, and somehow stay alive in this intense, critically acclaimed tale of survival against impossible odds.(n)</desc>
+    <credits>
+      <director>Chris Kentis</director>
+      <actor>Blanchard Ryan</actor>
+      <actor>Daniel Travis</actor>
+      <actor>Saul Stein</actor>
+      <writer>Chris Kentis</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211013190000 +0000" stop="20211013202500 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">The House of Yes</title>
+    <desc lang="en">A mentally unstable woman (Parker Posey) who is obsessed with Jackie Kennedy reunites with her family for Thanksgiving. When she finds out her brother is engaged, however, she officially cracks, sending the reunion down a dark and twisted path.(n)</desc>
+    <credits>
+      <director>Mark Walters</director>
+      <actor>Parker Posey</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Tori Spelling</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Geneviève Bujold</actor>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>David Love</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211013202500 +0000" stop="20211013220000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Ruthless People</title>
+    <desc lang="en">Murder plots, inept kidnappers, fortune hunters and the "dumbest person in the world" are the stuff that drive this uproarious black comedy about a greedy businessman (Danny DeVito) who doesn't want his kidnapped wife (Bette Midler) returned to him alive. Judge Reinhold costars in this wacky blockbuster hit.(n)</desc>
+    <credits>
+      <director>Jim Abrahams, David Zucker, and  Jerry Zucker</director>
+      <actor>Danny DeVito</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Helen Slater</actor>
+      <actor>Bette Midler</actor>
+      <writer>Dale Launer</writer>
+      <writer>O. Henry</writer>
+    </credits>
+    <date>1986</date>
+    <category lang="en">Comedy</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20211013220000 +0000" stop="20211014000000 +0000" channel="SHOWTIME WOMEN">
+    <title lang="en">Room</title>
+    <desc lang="en">Jack is a spirited 5 year-old who is looked after by his loving and devoted Ma while they are confined in a windowless 10-by-10-foot room. Ma has created a whole universe for Jack within Room, and she will stop at nothing to ensure that, even in this treacherous environment, Jack is able to live a complete and fulfilling life. But as Jack's curiosity grows, and Ma's resilience reaches its breaking point, they enact a risky plan to escape, ultimately bringing them face-to-face with what may be the scariest thing yet: the real world.(n)</desc>
+    <credits>
+      <director>Lenny Abrahamson</director>
+      <actor>Brie Larson</actor>
+      <actor>Jacob Tremblay</actor>
+      <actor>Joan Allen</actor>
+      <actor>Sean Bridgers</actor>
+      <actor>William H. Macy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Drama</category>
+    <rating system="CA">
+      <value>R</value>
+    </rating>
+  </programme>
+</tv>
